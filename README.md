@@ -1,4 +1,8 @@
 # billtracking3
+build a bill tracker application.
+Every month you get a few bills make an application that keeps track of them, using Vue.
+When the app opens for the first time, it asks you to add your first bill category...you can also remove it.
+You can have an overview or filter them by category .
 
 ## Project setup
 ```
